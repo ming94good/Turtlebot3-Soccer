@@ -2,7 +2,7 @@
 ROS, OpenCV, Python
 
 ## Overview
-Turtlebot kicks a green ball.
+Turtlebot kicks a green ball. <br>
 <img src="images/soccer.gif" width="200" height="300" />
 ## Prerequisite
 1. ROS (noetic in my case)

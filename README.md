@@ -3,7 +3,7 @@ ROS, OpenCV, Python
 
 ## Overview
 Turtlebot kicks a green ball.
-![video1](video/video1.mov)
+![soccer](images/soccer.gif)
 ## Prerequisite
 1. ROS (noetic in my case)
 2. [Turtlebot3 packages complete installation](https://github.com/ROBOTIS-GIT/turtlebot3)
@@ -21,7 +21,7 @@ Turtlebot kicks a green ball.
 > python3 rotate_angle.py
 4. View Output
 > rqt_image_view
-![video2](video/video2.mp4)
+![output](images/ouput.gif)
 
 ## Reference
 https://github.com/SMARTlab-Purdue/ros-tutorial-robot-control-vision/wiki/Robot-control-with-colored-object-detection

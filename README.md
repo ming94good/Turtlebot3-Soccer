@@ -3,7 +3,7 @@ ROS, OpenCV, Python
 
 ## Overview
 Turtlebot kicks a green ball.
-![soccer](images/soccer.gif)
+![soccer](images/soccer.gif =250x250)
 ## Prerequisite
 1. ROS (noetic in my case)
 2. [Turtlebot3 packages complete installation](https://github.com/ROBOTIS-GIT/turtlebot3)

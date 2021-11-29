@@ -1,0 +1,5 @@
+cv_bridge==1.15.0
+imutils==0.5.4
+numpy==1.17.4
+rospy==1.15.13
+sensor_msgs==1.13.1
